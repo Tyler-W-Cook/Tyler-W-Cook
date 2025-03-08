@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Systems Engineering student and I'm, passionate about aerospace, renewable designs, and coding :) <br>I currently work at the UGA Small Satellite Laboratory as a Hardware Engineer for the MOCI satellite 😎   
+I am a Computer Systems Engineering student and I'm passionate about aerospace, renewable designs, and coding :) <br>I currently work at the UGA Small Satellite Laboratory as a Hardware Engineer for the MOCI satellite 😎   
 
 
 ## 🌐 Socials:
